@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "nightconfig4fabric",
+  "version": "3.6.0",
+  "name": "Night Config 4 Fabric",
+  "description": "A Java based configuration library. This mod does nothing on it's own, it is used by mod developers.",
+  "license": "LGPL",
+  "icon": "assets/nightconfig4fabric/pack.png",
+  "contact": {
+    "homepage": "https://github.com/Tsudico/nightconfig4fabric",
+    "sources": "https://github.com/Tsudico/nightconfig4fabric"
+  },
+  "jars": [
+    {
+      "file": "META-INF/jars/core-3.6.0.jar"
+    },
+    {
+      "file": "META-INF/jars/json-3.6.0.jar"
+    },
+    {
+      "file": "META-INF/jars/toml-3.6.0.jar"
+    }
+  ]
+}
